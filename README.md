@@ -1,71 +1,62 @@
-<!-- Visitors -->
+<!-- Profile Counter -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=yashrawat2362&label=Visitors&style=flat-square&color=8A2BE2" />
+  <img src="https://komarev.com/ghpvc/?username=yashrawat2362&style=flat-square&color=blue" />
 </p>
 
-<h1 align="center">✨ Yash Rawat ✨</h1>
+<h1 align="center">Hi, I'm Yash 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=2600&pause=800&color=9A4DFF&center=true&vCenter=true&width=520&lines=Aspiring+Data+Scientist;AI+%7C+ML+%7C+LLM+Learner;Python+%26+Cloud+Explorer" />
-</p>
-
-<p align="center"><i>Learning. Building. Growing.</i></p>
-
----
-
-### ⚡ Tech Stack
-
-<p align="center">
-  
-<!-- Row 1 -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/ML-8a2be2?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<br/>
-
-<!-- Row 2 -->
-<img src="https://img.shields.io/badge/Pandas-120458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-
-<br/>
-
-<!-- Row 3 -->
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=600&center=true&width=420&lines=AI+%26+ML+Learner;Python+Developer;Flask+%26+LLMs+Explorer;Aspiring+Data+Scientist" />
 </p>
 
 ---
 
-### 📊 Snapshot
+### 🌱 About Me  
+- 🎓 B.Tech CSE  
+- 🤖 Learning **AI/ML + NLP + LLM apps**  
+- 🧠 Practicing **Python, Flask, OpenCV**  
+- ⚡ Building projects that automate things  
+- 🎯 Goal: Become **ML Engineer / Data Scientist**
 
+---
+
+### 🛠 Tech Stack  
+> Only tools I currently use
+
+**Languages**: Python, SQL, C++  
+**AI/ML**: Pandas, NumPy, Sklearn  
+**Dev Tools**: Flask, MySQL, Git, OpenCV  
+**LLMs**: LLaMA, Ollama
+
+---
+
+### 🚀 Projects  
+| Project | Tech |
+|--------|------|
+| OCR Text Extractor | Python + ML |
+| Face Recognition Attendance | OpenCV |
+| Vocabulary Builder (LLM) | Flask + LLaMA |
+
+---
+
+### 📊 GitHub Snapshot  
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yashrawat2362&theme=neon-dark&hide_border=true" height="150"/>
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=yashrawat2362&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=yashrawat2362&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yashrawat2362&show_icons=true&theme=tokyonight&hide_title=true" />
 </p>
 
 ---
 
-### 🧬 Activity Snake
-
+### 🐍 Contribution Snake  
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
 
+### 🤝 Let's Connect  
 <p align="center">
-  📧 <b>Email:</b> rawatyash405@gmail.com  
-  <br>
-  🔗 <b>LinkedIn:</b> linkedin.com/in/yashrawat2362  
-  <br>
-  ✍️ <b>Medium:</b> medium.com/@yashrawat2362  
+<a href="mailto:rawatyash405@gmail.com">Email</a> • 
+<a href="#">LinkedIn</a> • 
+<a href="https://github.com/yashrawat2362">GitHub</a>
 </p>
-
----
-
-<p align="center"><i>✨ Thanks for visiting — stay curious & keep building! ✨</i></p>
