@@ -30,15 +30,6 @@
 
 ---
 
-### 🚀 Projects  
-| Project | Tech |
-|--------|------|
-| OCR Text Extractor | Python + ML |
-| Face Recognition Attendance | OpenCV |
-| Vocabulary Builder (LLM) | Flask + LLaMA |
-
----
-
 ### 📊 GitHub Snapshot  
 <p align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=yashrawat2362&theme=tokyonight" />
@@ -57,6 +48,6 @@
 ### 🤝 Let's Connect  
 <p align="center">
 <a href="mailto:rawatyash405@gmail.com">Email</a> • 
-<a href="#">LinkedIn</a> • 
+<a href="https://www.linkedin.com/in/yashrawat2362/">LinkedIn</a> • 
 <a href="https://github.com/yashrawat2362">GitHub</a>
 </p>
