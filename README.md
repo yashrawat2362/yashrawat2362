@@ -6,24 +6,24 @@
 <h1 align="center">Hi, I'm Yash 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=600&center=true&width=420&lines=AI+%26+ML+Learner;Python+Developer;Flask+%26+LLMs+Explorer;Aspiring+Data+Scientist" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=600&center=true&width=420&lines=AI+%26+ML+Learner;Python+Developer;Flask+%26+LLMs+Explorer;Aspiring+DevOps+Engineer" />
 </p>
 
 ---
 
 ### 🌱 About Me  
 - 🎓 B.Tech CSE  
-- 🤖 Learning **AI/ML + NLP + LLM apps**  
-- 🧠 Practicing **Python, Flask, OpenCV**  
+- 🤖 Learning **AI/ML + Cloud + LLM apps**  
+- 🧠 Practicing **Python, AI, Cloud**  
 - ⚡ Building projects that automate things  
-- 🎯 Goal: Become **ML Engineer / Data Scientist**
+- 🎯 Goal: Become **Cloud Engineer / DevOps Engineer**
 
 ---
 
 ### 🛠 Tech Stack  
 > Only tools I currently use
 
-**Languages**: Python, SQL, C++  
+**Languages**: Python, SQL  
 **AI/ML**: Pandas, NumPy, Sklearn  
 **Dev Tools**: Flask, MySQL, Git, OpenCV  
 **LLMs**: LLaMA, Ollama
@@ -38,10 +38,12 @@
 
 ---
 
+<!--
 ### 🐍 Contribution Snake  
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
 </p>
+-->
 
 ---
 
